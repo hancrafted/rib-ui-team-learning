@@ -61,7 +61,7 @@ For more information on using the Angular CLI, including detailed command refere
 Time tracker
 
 - [✅] Section 1: Getting Started
-- [ ] Section 2: Angular Essentials - Components, Templates, Services & More
+- [✅] Section 2: Angular Essentials - Components, Templates, Services & More
 - [ ] Section 3: Angular Essentials - Working with Modules
 - [ ] Section 4: Angular Essentials - Time To Practice
 - [ ] Section 5: Debugging Angular Apps
